@@ -1,6 +1,8 @@
 # Java
 hs_err_pid*
 zookeeper-server/version-2/*
+data/version-2/*
+data/zookeeper_server.pid
 
 # Git
 *.orij
